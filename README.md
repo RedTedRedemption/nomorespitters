@@ -1,3 +1,8 @@
+Modified game file for Aliens: Colonial Marines
+
+Current Modifications:
+  -Signifigant nerf of rupture: the explosion itself no longer deals damage, the ground DOT puddle has been reduced in size,
+    but still can kill
 
 
 INSTALL STEPS
